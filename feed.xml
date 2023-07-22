@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>fabulari</title>
-    <link href="https://jloorpgeez.github.io/fabulari/feed.xml" rel="self" />
-    <link href="https://jloorpgeez.github.io/fabulari" />
+    <link href="https://www.fabulari.co/feed.xml" rel="self" />
+    <link href="https://www.fabulari.co" />
     <updated>2023-07-22T18:54:13-05:00</updated>
     <author>
         <name>Martha Lara</name>
     </author>
-    <id>https://jloorpgeez.github.io/fabulari</id>
+    <id>https://www.fabulari.co</id>
 
     <entry>
         <title>Juego de Roles</title>
         <author>
             <name>Martha Lara</name>
         </author>
-        <link href="https://jloorpgeez.github.io/fabulari/juego-de-roles.html"/>
-        <id>https://jloorpgeez.github.io/fabulari/juego-de-roles.html</id>
+        <link href="https://www.fabulari.co/juego-de-roles.html"/>
+        <id>https://www.fabulari.co/juego-de-roles.html</id>
 
         <updated>2023-07-22T18:54:13-05:00</updated>
             <summary></summary>

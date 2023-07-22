@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "fabulari",
     "description": "",
-    "home_page_url": "https://jloorpgeez.github.io/fabulari",
-    "feed_url": "https://jloorpgeez.github.io/fabulari/feed.json",
+    "home_page_url": "https://www.fabulari.co",
+    "feed_url": "https://www.fabulari.co/feed.json",
     "user_comment": "",
-    "icon": "https://jloorpgeez.github.io/fabulari/media/website/fabulari-logo.png",
+    "icon": "https://www.fabulari.co/media/website/fabulari-logo.png",
     "author": {
         "name": "Martha Lara"
     },
     "items": [
         {
-            "id": "https://jloorpgeez.github.io/fabulari/juego-de-roles.html",
-            "url": "https://jloorpgeez.github.io/fabulari/juego-de-roles.html",
+            "id": "https://www.fabulari.co/juego-de-roles.html",
+            "url": "https://www.fabulari.co/juego-de-roles.html",
             "title": "Juego de Roles",
             "author": {
                 "name": "Martha Lara"
