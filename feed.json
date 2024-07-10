@@ -14,13 +14,15 @@
             "id": "https://www.fabulari.co/juego-de-roles.html",
             "url": "https://www.fabulari.co/juego-de-roles.html",
             "title": "Juego de Roles",
+            "summary": "Este juego se basa en identificar el rol de una persona en&hellip;",
+            "content_html": "<p>Este juego se basa en identificar el rol de una persona en una situacion especial.</p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "Martha Lara"
             },
             "tags": [
             ],
             "date_published": "2023-07-22T18:54:13-05:00",
-            "date_modified": "2023-07-22T18:54:13-05:00"
+            "date_modified": "2024-07-09T18:36:37-05:00"
         }
     ]
 }

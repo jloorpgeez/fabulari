@@ -3,7 +3,7 @@
     <title>fabulari</title>
     <link href="https://www.fabulari.co/feed.xml" rel="self" />
     <link href="https://www.fabulari.co" />
-    <updated>2023-07-22T18:54:13-05:00</updated>
+    <updated>2024-07-09T18:36:37-05:00</updated>
     <author>
         <name>Martha Lara</name>
     </author>
@@ -17,8 +17,18 @@
         <link href="https://www.fabulari.co/juego-de-roles.html"/>
         <id>https://www.fabulari.co/juego-de-roles.html</id>
 
-        <updated>2023-07-22T18:54:13-05:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2024-07-09T18:36:37-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Este juego se basa en identificar el rol de una persona en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Este juego se basa en identificar el rol de una persona en una situacion especial.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>
